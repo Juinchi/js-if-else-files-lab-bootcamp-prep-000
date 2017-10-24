@@ -5,6 +5,8 @@ if (index.name === "Susan") {
 } else {
     console.log("Expected: Susan, Received: "+index.name)
 }
+name = "Susan"
+height= "67"
 
 
 
